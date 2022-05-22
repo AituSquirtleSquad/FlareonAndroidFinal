@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/drawable/app_widget_background.xml" value="0.1" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/activity_home.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/activity_main.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/activity_register.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/card_prof.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/edit_profile.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/fragment_coming_soon.xml" value="0.1984375" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/fragment_detail.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/fragment_filter.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/fragment_list.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/fragment_my_movies.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/fragment_profile.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/layout_genre_list_item.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/layout_movie_list_item.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/movie_widget.xml" value="0.1875" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/layout/profile_user.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/2019/Desktop/flareonApp2/app/src/main/res/menu/my_navigation_items.xml" value="0.1984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

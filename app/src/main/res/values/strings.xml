@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Flareon</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="poster">poster</string>
+    <string name="background_image">background image</string>
+    <string name="please_select_range">Filter via year range</string>
+    <string name="max_year">hello_blank_fragment</string>
+    <string name="ok">ok</string>
+    <string name="minDef">2019</string>
+    <string name="maxDef">2021</string>
+    <string name="filter">filter</string>
+    <string name="min_year">Min Year</string>
+    <string name="maximum_year">Max Year</string>
+    <string name="original_language">Original Language</string>
+    <string name="overview">Overview</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_myMovies">My Movies</string>
+    <string name="menu_recent">Recent</string>
+    <string name="add_to_my_collection">add to my collection</string>
+    <string name="up">up</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="save_to_collection">+ Watchlist</string>
+    <string name="filter_via_genre">Filter via genre</string>
+    <string name="filter_this">Filter</string>
+    <string name="home">Home</string>
+    <string name="filterfragment">Filter</string>
+    <string name="profilefragment">Profile</string>
+    <string name="details">Details</string>
+    <string name="mymovies">My Movies</string>
+    <string name="comingsoon">Coming Soon</string>
+    <string name="Profile">profileString</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="app_logo">TMDB Logo</string>
+    <string name="movies">Movies</string>
+    <string name="sort_results_header">Sort Results By</string>
+    <string name="release_date_ascending">Release date ascending</string>
+    <string name="release_date_descending">Release date descending</string>
+    <string name="rating_ascending">Rating ascending</string>
+    <string name="rating_descending">Rating descending</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="image_back_btn_desc">Back button</string>
+    <string name="movie_name_with_release_date">%1$s (%2$s) </string>
+    <string name="over_view">Overview</string>
+    <string name="duration">%1$dh:%2$dm</string>
+    <string name="sorted_by_release_date_ascending">Sorted by release date ascending</string>
+    <string name="sorted_by_release_date_descending">Sorted by release date descending</string>
+    <string name="sorted_by_rating_ascending">Sorted by rating ascending</string>
+    <string name="sorted_by_rating_descending">Sorted by rating descending</string>
+
+
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+    <string name="i_agree_with_the_policy">I agree with the Policy</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>

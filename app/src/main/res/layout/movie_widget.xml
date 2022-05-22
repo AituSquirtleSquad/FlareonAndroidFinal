@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Widget.SampleWidgetApp.AppWidget.Container"
+    android:layout_width="250dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:theme="@style/Theme.SampleWidgetApp.AppWidgetContainer">
+
+    <TextView
+        android:id="@+id/appwidget_text1"
+        style="@style/Widget.SampleWidgetApp.AppWidget.InnerView"
+        android:background="#269"
+        android:textColor="#FF7700"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/appwidget_text"
+        android:text="Movie of the day by Flareon"
+        android:layout_marginLeft="10dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:padding="5dp" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/Widget.SampleWidgetApp.AppWidget.Container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="80dp"
+            android:src="@drawable/strange" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/appwidget_text2"
+                style="@style/Widget.SampleWidgetApp.AppWidget.InnerView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="0dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="false"
+                android:contentDescription="@string/appwidget_text"
+                android:text="Doctor Strange 2"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:background="#07000000"/>
+
+            <TextView
+                android:id="@+id/appwidget_text3"
+                style="@style/Widget.SampleWidgetApp.AppWidget.InnerView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="0dp"
+                android:layout_centerHorizontal="false"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/appwidget_text"
+                android:text="Doctor Strange in the Multiverse of Madness is a 2022 American superhero film based on Marvel Comics featuring the character Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Doctor Strange (2016) and the 28th film in the Marvel Cinematic Universe (MCU). "
+                android:textSize="8sp"
+                android:textStyle="italic"
+                android:background="#07000000"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
